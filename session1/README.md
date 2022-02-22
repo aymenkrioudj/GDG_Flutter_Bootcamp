@@ -1,6 +1,4 @@
-# GDG_Flutter_Bootcamp : session 1
-
-# Title : Introducing Mobile Dev by targeting Flutter
+# Session 1 : Introducing Mobile Dev by targeting Flutter
 
 Hello dear Flutter learners, 
 
