@@ -1,1 +1,3 @@
 # GDG_Flutter_Bootcamp : session 1
+
+#  Introducing Mobile Dev by targeting Flutter ... 
